@@ -160,7 +160,7 @@ type        : 'Usage'
   <div class="no example">
     <h4>Using Packaged Themes</h4>
     <p>When you download Semantic UI all components will be set up to use the default theme. Semantic uses a special file <code>theme.config</code> for controlling your project's packaged theming configuration.</p>
-    <p>Packaged themes are applied per component, and not globally. This means you can specify individual themes for each component, mixing and matching from available themes.</p>
+    <p>Packaged themes are applied per component, not globally. This means you can specify individual themes for each component, mixing and matching from available themes.</p>
     <p>The default <code>theme.config</code> will have all component values set to default. To choose a theme, simply change a component to match the theme name.</p>
 
     <p>For example: </p>
